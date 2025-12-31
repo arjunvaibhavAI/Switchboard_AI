@@ -1,0 +1,29 @@
+# Secrets and Keys
+.env
+.env.local
+
+# Databases
+*.db
+*.sqlite3
+
+# Python Environment
+__pycache__/
+venv/
+env/
+.pytest_cache/
+*.py[cod]
+
+# Core Engine Build Artifacts
+core_engine/*.so
+core_engine/*.exe
+core_engine/*.obj
+core_engine/*.o
+core_engine/*.lib
+core_engine/*.exp
+core_engine/*.pdb
+
+# System/IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
