@@ -1,0 +1,11 @@
+.env
+.env.local
+*.db
+core_engine/.dll
+core_engine/.exe
+core_engine/*.so
+pycache/
+venv/
+.pytest_cache/
+.git
+.gitignore
