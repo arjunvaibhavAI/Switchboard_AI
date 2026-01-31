@@ -150,6 +150,12 @@ This project is built on the conviction that **AI must be Secure by Design**.
 
 By enforcing guardrails at the **native system level**, Switchboard AI ensures that **data privacy and ethical handling are architectural guarantees**, not optional features.
 
+
+
+https://github.com/user-attachments/assets/b335b176-dfa1-4d1c-bf18-29074333cace
+
+
+
 ---
 
 ## 📬 Contact & Portfolio
